@@ -5,3 +5,7 @@ __pycache__/
 requirement.txt
 venv/
 .env
+LangChain-Prompt/chat_history.txt
+.venv/
+env.txt
+.env
