@@ -1,0 +1,30 @@
+CRICKET - QUICK OVERVIEW
+
+Cricket is a bat-and-ball game played between two teams of 11 players each.
+
+BASIC RULES:
+- One team bats while the other bowls and fields.
+- The batting team tries to score runs by hitting the ball and running between two sets of wooden stumps (wickets), or by hitting boundaries (4 runs) or sixes (6 runs).
+- The bowling team tries to get batsmen "out" (via bowled, caught, LBW, run out, stumped, etc.) and restrict runs.
+- An "over" consists of 6 balls bowled by one bowler.
+- Once a team is all out (10 wickets down) or overs are completed, the innings ends and teams swap roles.
+
+FORMATS:
+- Test Cricket: Played over 5 days, most traditional format.
+- One Day International (ODI): Limited to 50 overs per side.
+- T20: Limited to 20 overs per side, fast-paced format.
+- T10 / The Hundred: Newer, shorter formats.
+
+KEY TERMS:
+- Wicket: The three stumps + bails, or the act of dismissing a batsman.
+- Over: A set of 6 legal deliveries bowled.
+- Boundary: Ball reaches the edge of the field (4 runs if it bounces, 6 if it clears on the full).
+- LBW: Leg Before Wicket - a common way of getting out.
+- Century: A batsman scoring 100 or more runs in an innings.
+- Duck: A batsman dismissed for 0 runs.
+
+MAJOR TOURNAMENTS:
+- ICC Cricket World Cup (ODI format)
+- ICC T20 World Cup
+- Indian Premier League (IPL) - major T20 league
+- The Ashes - historic Test series between England and Australia
