@@ -9,3 +9,7 @@ LangChain-Prompt/chat_history.txt
 .venv/
 env.txt
 .env
+.venv/
+venv/
+.env
+env.txt
